@@ -1,0 +1,15 @@
+/home/edemuner/Documents/code/dotnet/encontro-remoto/bin/Debug/net6.0/encontro-remoto
+/home/edemuner/Documents/code/dotnet/encontro-remoto/bin/Debug/net6.0/encontro-remoto.deps.json
+/home/edemuner/Documents/code/dotnet/encontro-remoto/bin/Debug/net6.0/encontro-remoto.runtimeconfig.json
+/home/edemuner/Documents/code/dotnet/encontro-remoto/bin/Debug/net6.0/encontro-remoto.dll
+/home/edemuner/Documents/code/dotnet/encontro-remoto/bin/Debug/net6.0/ref/encontro-remoto.dll
+/home/edemuner/Documents/code/dotnet/encontro-remoto/bin/Debug/net6.0/encontro-remoto.pdb
+/home/edemuner/Documents/code/dotnet/encontro-remoto/obj/Debug/net6.0/encontro-remoto.csproj.AssemblyReference.cache
+/home/edemuner/Documents/code/dotnet/encontro-remoto/obj/Debug/net6.0/encontro-remoto.GeneratedMSBuildEditorConfig.editorconfig
+/home/edemuner/Documents/code/dotnet/encontro-remoto/obj/Debug/net6.0/encontro-remoto.AssemblyInfoInputs.cache
+/home/edemuner/Documents/code/dotnet/encontro-remoto/obj/Debug/net6.0/encontro-remoto.AssemblyInfo.cs
+/home/edemuner/Documents/code/dotnet/encontro-remoto/obj/Debug/net6.0/encontro-remoto.csproj.CoreCompileInputs.cache
+/home/edemuner/Documents/code/dotnet/encontro-remoto/obj/Debug/net6.0/encontro-remoto.dll
+/home/edemuner/Documents/code/dotnet/encontro-remoto/obj/Debug/net6.0/ref/encontro-remoto.dll
+/home/edemuner/Documents/code/dotnet/encontro-remoto/obj/Debug/net6.0/encontro-remoto.pdb
+/home/edemuner/Documents/code/dotnet/encontro-remoto/obj/Debug/net6.0/encontro-remoto.genruntimeconfig.cache
